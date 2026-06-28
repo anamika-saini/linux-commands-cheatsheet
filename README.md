@@ -170,22 +170,6 @@ Browse the command categories and practice each command directly in your Linux t
 
 ---
 
-## 📸 Screenshots
-
-## 📸 Screenshots
-
-### Ubuntu WSL Environment
-![Ubuntu WSL](./screenshots/ubuntu-wsl-terminal.png)
-
-### File Operations
-![File Operations](./screenshots/file-operations.png)
-
-### File Permissions
-![Permissions](./screenshots/permissions.png)
-
-### Process Management
-![Process Management](./screenshots/process-management.png)
-
 ---
 
 ## 🔮 Future Improvements
