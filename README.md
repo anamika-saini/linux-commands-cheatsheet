@@ -3,21 +3,6 @@
 </p>
 
 
-
-
-<p align="center">
-  <img src="images/linux-banner.png" alt="Linux Commands Cheatsheet Banner">
-</p>
-
-
-
-<p align="center">
-  <img src="images/linux-banner.png" alt="Linux Commands Cheatsheet Banner" width="100%">
-</p>
-
-
-
-
 # 🐧 Linux Commands Cheatsheet
 
 > A beginner-friendly Linux commands reference designed for AWS Cloud and DevOps learners.
