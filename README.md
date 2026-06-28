@@ -172,9 +172,19 @@ Browse the command categories and practice each command directly in your Linux t
 
 ## 📸 Screenshots
 
-Screenshots will be added in future updates to demonstrate the project structure and command examples.
+## 📸 Screenshots
 
-> 📌 Stay tuned for upcoming improvements!
+### Ubuntu WSL Environment
+![Ubuntu WSL](./screenshots/ubuntu-wsl-terminal.png)
+
+### File Operations
+![File Operations](./screenshots/file-operations.png)
+
+### File Permissions
+![Permissions](./screenshots/permissions.png)
+
+### Process Management
+![Process Management](./screenshots/process-management.png)
 
 ---
 
